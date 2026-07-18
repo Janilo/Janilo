@@ -8,6 +8,9 @@ This profile is where I build in the open, with Claude, skills and MCP.
 
 #### Building in the open
 - **[RiskJud](https://apps.pereirasaraiva.com/riskjud)** · prices a company's LGPD data-breach exposure from real Brazilian court data. A method demo, not a product. Source in [`apps`](https://github.com/Janilo/apps).
+- **[Prisma](https://prisma.pereirasaraiva.com)** · Marketing Mix Modeling: upload spend and sales, get channel contribution, ROI, and base vs. incremental (Ridge with adstock and saturation). [`prisma`](https://github.com/Janilo/prisma)
+- **[Lente](https://lente.pereirasaraiva.com)** · AI-run qualitative video research: adaptive follow-up interviews synthesized into insights backed by clickable video clips. [`lente`](https://github.com/Janilo/lente)
+- **[Cascata](https://cascata.pereirasaraiva.com)** · per-customer price waterfall, gross revenue to cost-to-serve; AI reads each department's files and reconciles by customer. [`cascata`](https://github.com/Janilo/cascata)
 
 #### Find me
 - Site · [pereirasaraiva.com](https://pereirasaraiva.com)
